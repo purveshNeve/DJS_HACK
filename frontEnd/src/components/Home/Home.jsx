@@ -133,4 +133,4 @@ function Home() {
   )
 }
 
-export default Homegit 
+export default Home
